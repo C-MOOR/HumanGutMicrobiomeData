@@ -1,0 +1,312 @@
+sample,subject,timepoint,unique_id,diet,age,gender,ethnicity,relationship,education,employment,smoke,height,weight,bmi,waist,Systolic Blood Pressure 1,Diastolic Blood Pressure 1,Systolic Blood Pressure 2,Diastolic Blood Pressure 2,Systolic Blood Pressure 3,Diastolic Blood Pressure 3,Glucose (mg/dL),Insulin (uU/mL),Triglycerides (mg/dL),Total Cholesterol (mg/dL),HDL Cholesterol (mg/dL),Calculated LDL Chol (mg/dL)
+fefifo_8027_2_1,8027,2,1,Fermented,44.4,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,79.3,26.65,33.858,114,72,112,75,111,67,97,7.3,45,192,77,106
+fefifo_8011_3_10,8011,3,10,Fermented,58.7,Female,Asian,Married/Partnered,Some college,Working full-time,No,1.52,64,27.88,35.433,112,74,111,72,118,77,87,12.1,111,238,77,139
+fefifo_8016_4_100,8016,4,100,Fermented,62.5,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.52,61.3,26.71,27.953,107,74,105,72,105,71,105,8.6,104,223,82,120
+fefifo_8027_4_101,8027,4,101,Fermented,44.4,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,79.3,26.65,33.858,114,72,112,75,111,67,97,7.3,45,192,77,106
+fefifo_8003_6_102,8003,6,102,Fiber,44.1,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.71,64.4,22.02,33.465,108,71,107,70,100,67,85,7.1,87,203,83,103
+fefifo_8023_4_103,8023,4,103,Fiber,71.5,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.79,100.6,31.43,46.85,131,70,121,70,123,69,90,7.9,67,190,73,104
+fefifo_8011_2_104,8011,2,104,Fermented,58.7,Female,Asian,Married/Partnered,Some college,Working full-time,No,1.52,64,27.88,35.433,112,74,111,72,118,77,87,12.1,111,238,77,139
+fefifo_8025_4_105,8025,4,105,Fermented,54.8,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,68.7,23.36,30.315,112,73,106,72,111,73,113,13,111,184,71,91
+fefifo_8018_3_106,8018,3,106,Fiber,48.1,Female,Asian,Married/Partnered,Some post-graduate school,Working part-time,No,1.65,70.2,25.94,32.677,123,71,101,65,105,68,104,8.5,102,213,55,138
+fefifo_8014_3_107,8014,3,107,Fermented,55.2,Male,White,Married/Partnered,College graduate,Working full-time,No,1.77,87.7,27.99,37.402,135,82,125,80,124,77,95,10.9,86,171,72,82
+fefifo_8018_4_108,8018,4,108,Fiber,48.1,Female,Asian,Married/Partnered,Some post-graduate school,Working part-time,No,1.65,70.2,25.94,32.677,123,71,101,65,105,68,104,8.5,102,213,55,138
+fefifo_8003_7_109,8003,7,109,Fiber,44.1,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.71,64.4,22.02,33.465,108,71,107,70,100,67,85,7.1,87,203,83,103
+fefifo_8007_6_11,8007,6,11,Fiber,44.2,Male,White,Single/Never married,Post-graduate degree,Working full-time,No,1.79,64.4,20.1,33.071,115,84,122,85,131,79,97,11.5,194,169,35,95
+fefifo_8027_3_110,8027,3,110,Fermented,44.4,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,79.3,26.65,33.858,114,72,112,75,111,67,97,7.3,45,192,77,106
+fefifo_8002_6_111,8002,6,111,Fiber,51.9,Female,White,Single/Never married,College graduate,Working full-time,No,1.74,89.1,29.43,34.055,109,71,106,70,106,71,103,9,126,208,67,116
+fefifo_8017_3_112,8017,3,112,Fiber,45.5,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.65,67.9,24.88,32.874,137,77,120,79,121,77,78,10.6,108,240,60,158
+fefifo_8014_4_113,8014,4,113,Fermented,55.2,Male,White,Married/Partnered,College graduate,Working full-time,No,1.77,87.7,27.99,37.402,135,82,125,80,124,77,95,10.9,86,171,72,82
+fefifo_8034_1_114,8034,1,114,Fermented,64,Female,White,Married/Partnered,Post-graduate degree,Retired,No,1.74,77.7,25.66,35.827,143,79,136,79,144,80,97,7.8,62,244,97,135
+fefifo_8009_5_115,8009,5,115,Fiber,44.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.59,50.6,20.02,29.921,123,74,102,70,109,73,88,7.7,53,170,63,96
+fefifo_8038_1_116,8038,1,116,Fiber,57.5,Female,White,Married/Partnered,College graduate,Working full-time,No,1.69,64,22.3,35.4,153,87,154,84,143,87,88,6.5,54,234,102,121
+fefifo_8017_4_117,8017,4,117,Fiber,45.5,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.65,67.9,24.88,32.874,137,77,120,79,121,77,78,10.6,108,240,60,158
+fefifo_8001_9_118,8001,9,118,Fiber,29.8,Female,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.56,54.7,22.39,32.283,110,76,106,72,108,73,90,8.9,56,163,89,63
+fefifo_8037_1_119,8037,1,119,Fiber,60.8,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.72,73.9,25.57,31.496,136,81,130,82,136,80,132,14.8,264,194,28,113
+fefifo_8007_5_12,8007,5,12,Fiber,44.2,Male,White,Single/Never married,Post-graduate degree,Working full-time,No,1.79,64.4,20.1,33.071,115,84,122,85,131,79,97,11.5,194,169,35,95
+fefifo_8014_5_120,8014,5,120,Fermented,55.2,Male,White,Married/Partnered,College graduate,Working full-time,No,1.77,87.7,27.99,37.402,135,82,125,80,124,77,95,10.9,86,171,72,82
+fefifo_8030_1_121,8030,1,121,Fermented,56.6,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.87,76.7,21.86,33.858,146,97,143,99,128,90,96,9.1,114,215,67,125
+fefifo_8023_3_122,8023,3,122,Fiber,71.5,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.79,100.6,31.43,46.85,131,70,121,70,123,69,90,7.9,67,190,73,104
+fefifo_8014_6_123,8014,6,123,Fermented,55.2,Male,White,Married/Partnered,College graduate,Working full-time,No,1.77,87.7,27.99,37.402,135,82,125,80,124,77,95,10.9,86,171,72,82
+fefifo_8030_2_124,8030,2,124,Fermented,56.6,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.87,76.7,21.86,33.858,146,97,143,99,128,90,96,9.1,114,215,67,125
+fefifo_8013_2_125,8013,2,125,Fiber,47.6,Female,White,Single/Never married,College graduate,Working full-time,No,1.7,85.7,29.65,37.008,116,80,116,70,113,76,93,10.8,129,222,37,159
+fefifo_8020_3_126,8020,3,126,Fermented,56.2,Male,Asian,Single/Never married,Post-graduate degree,Working part-time,No,1.67,60.6,21.81,31.496,115,75,112,72,116,74,92,6.4,82,197,55,126
+fefifo_8016_3_127,8016,3,127,Fermented,62.5,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.52,61.3,26.71,27.953,107,74,105,72,105,71,105,8.6,104,223,82,120
+fefifo_8010_4_128,8010,4,128,Fermented,52.5,Female,Asian,Married/Partnered,College graduate,Working full-time,No,1.56,56.2,23.09,30.709,132,82,107,71,119,80,83,5,106,230,75,134
+fefifo_8025_3_129,8025,3,129,Fermented,54.8,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,68.7,23.36,30.315,112,73,106,72,111,73,113,13,111,184,71,91
+fefifo_8004_6_13,8004,6,13,Fermented,60.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.58,44.2,17.71,27.559,124,75,138,78,148,77,94,6.3,109,208,84,102
+fefifo_8021_3_130,8021,3,130,Fermented,39.6,Male,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.64,68.5,25.47,34.252,121,78,108,71,113,76,111,16.8,122,226,48,154
+fefifo_8024_2_131,8024,2,131,Fermented,49.3,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.68,78.5,27.95,38.071,128,83,126,86,127,84,76,10.1,247,245,44,152
+fefifo_8001_8_132,8001,8,132,Fiber,29.8,Female,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.56,54.7,22.39,32.283,110,76,106,72,108,73,90,8.9,56,163,89,63
+fefifo_8021_4_133,8021,4,133,Fermented,39.6,Male,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.64,68.5,25.47,34.252,121,78,108,71,113,76,111,16.8,122,226,48,154
+fefifo_8031_1_134,8031,1,134,Fermented,74.5,Female,White,Divorced,Some college,Retired,No,1.64,64,23.8,36.614,124,78,114,76,113,75,99,7.3,152,252,48,174
+fefifo_8020_5_137,8020,5,137,Fermented,56.2,Male,Asian,Single/Never married,Post-graduate degree,Working part-time,No,1.67,60.6,21.81,31.496,115,75,112,72,116,74,92,6.4,82,197,55,126
+fefifo_8023_5_138,8023,5,138,Fiber,71.5,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.79,100.6,31.43,46.85,131,70,121,70,123,69,90,7.9,67,190,73,104
+fefifo_8013_7_139,8013,7,139,Fiber,47.6,Female,White,Single/Never married,College graduate,Working full-time,No,1.7,85.7,29.65,37.008,116,80,116,70,113,76,93,10.8,129,222,37,159
+fefifo_8033_2_14,8033,2,14,Fermented,52.8,Female,White,Married/Partnered,College graduate,Working full-time,No,1.62,83.3,31.62,42.126,116,79,116,76,114,77,89,17.9,138,219,35,156
+fefifo_8011_6_140,8011,6,140,Fermented,58.7,Female,Asian,Married/Partnered,Some college,Working full-time,No,1.52,64,27.88,35.433,112,74,111,72,118,77,87,12.1,111,238,77,139
+fefifo_8013_6_141,8013,6,141,Fiber,47.6,Female,White,Single/Never married,College graduate,Working full-time,No,1.7,85.7,29.65,37.008,116,80,116,70,113,76,93,10.8,129,222,37,159
+fefifo_8020_6_142,8020,6,142,Fermented,56.2,Male,Asian,Single/Never married,Post-graduate degree,Working part-time,No,1.67,60.6,21.81,31.496,115,75,112,72,116,74,92,6.4,82,197,55,126
+fefifo_8011_4_143,8011,4,143,Fermented,58.7,Female,Asian,Married/Partnered,Some college,Working full-time,No,1.52,64,27.88,35.433,112,74,111,72,118,77,87,12.1,111,238,77,139
+fefifo_8017_5_144,8017,5,144,Fiber,45.5,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.65,67.9,24.88,32.874,137,77,120,79,121,77,78,10.6,108,240,60,158
+fefifo_8014_7_145,8014,7,145,Fermented,55.2,Male,White,Married/Partnered,College graduate,Working full-time,No,1.77,87.7,27.99,37.402,135,82,125,80,124,77,95,10.9,86,171,72,82
+fefifo_8016_6_146,8016,6,146,Fermented,62.5,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.52,61.3,26.71,27.953,107,74,105,72,105,71,105,8.6,104,223,82,120
+fefifo_8021_5_147,8021,5,147,Fermented,39.6,Male,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.64,68.5,25.47,34.252,121,78,108,71,113,76,111,16.8,122,226,48,154
+fefifo_8011_5_148,8011,5,148,Fermented,58.7,Female,Asian,Married/Partnered,Some college,Working full-time,No,1.52,64,27.88,35.433,112,74,111,72,118,77,87,12.1,111,238,77,139
+fefifo_8016_5_149,8016,5,149,Fermented,62.5,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.52,61.3,26.71,27.953,107,74,105,72,105,71,105,8.6,104,223,82,120
+fefifo_8017_1_15,8017,1,15,Fiber,45.5,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.65,67.9,24.88,32.874,137,77,120,79,121,77,78,10.6,108,240,60,158
+fefifo_8013_5_150,8013,5,150,Fiber,47.6,Female,White,Single/Never married,College graduate,Working full-time,No,1.7,85.7,29.65,37.008,116,80,116,70,113,76,93,10.8,129,222,37,159
+fefifo_8010_6_151,8010,6,151,Fermented,52.5,Female,Asian,Married/Partnered,College graduate,Working full-time,No,1.56,56.2,23.09,30.709,132,82,107,71,119,80,83,5,106,230,75,134
+fefifo_8010_7_152,8010,7,152,Fermented,52.5,Female,Asian,Married/Partnered,College graduate,Working full-time,No,1.56,56.2,23.09,30.709,132,82,107,71,119,80,83,5,106,230,75,134
+fefifo_8008_7_153,8008,7,153,Fermented,45.7,Female,White,Divorced,College graduate,Working full-time,No,1.64,57.3,21.3,NA,102,59,96,62,91,58,87,8.5,58,154,53,89
+fefifo_8004_7_154,8004,7,154,Fermented,60.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.58,44.2,17.71,27.559,124,75,138,78,148,77,94,6.3,109,208,84,102
+fefifo_8002_8_156,8002,8,156,Fiber,51.9,Female,White,Single/Never married,College graduate,Working full-time,No,1.74,89.1,29.43,34.055,109,71,106,70,106,71,103,9,126,208,67,116
+fefifo_8003_9_157,8003,9,157,Fiber,44.1,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.71,64.4,22.02,33.465,108,71,107,70,100,67,85,7.1,87,203,83,103
+fefifo_8002_9_158,8002,9,158,Fiber,51.9,Female,White,Single/Never married,College graduate,Working full-time,No,1.74,89.1,29.43,34.055,109,71,106,70,106,71,103,9,126,208,67,116
+fefifo_8009_6_159,8009,6,159,Fiber,44.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.59,50.6,20.02,29.921,123,74,102,70,109,73,88,7.7,53,170,63,96
+fefifo_8017_2_16,8017,2,16,Fiber,45.5,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.65,67.9,24.88,32.874,137,77,120,79,121,77,78,10.6,108,240,60,158
+fefifo_8007_7_160,8007,7,160,Fiber,44.2,Male,White,Single/Never married,Post-graduate degree,Working full-time,No,1.79,64.4,20.1,33.071,115,84,122,85,131,79,97,11.5,194,169,35,95
+fefifo_8010_5_163,8010,5,163,Fermented,52.5,Female,Asian,Married/Partnered,College graduate,Working full-time,No,1.56,56.2,23.09,30.709,132,82,107,71,119,80,83,5,106,230,75,134
+fefifo_8006_7_164,8006,7,164,Fiber,57.3,Female,White,Married/Partnered,College graduate,Working full-time,No,1.57,59,23.84,31.89,128,80,113,76,112,75,112,7.3,87,211,59,135
+fefifo_8030_3_165,8030,3,165,Fermented,56.6,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.87,76.7,21.86,33.858,146,97,143,99,128,90,96,9.1,114,215,67,125
+fefifo_8039_2_166,8039,2,166,Fiber,45,Male,White,Married/Partnered,College graduate,Working full-time,No,1.82,84.3,25.37,39.134,125,83,111,80,121,81,101,11,202,226,38,148
+fefifo_8030_4_167,8030,4,167,Fermented,56.6,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.87,76.7,21.86,33.858,146,97,143,99,128,90,96,9.1,114,215,67,125
+fefifo_8035_1_168,8035,1,168,Fiber,64.2,Male,White,Married/Partnered,Post-graduate degree,Working part-time,No,1.68,69.5,24.62,38.583,147,82,139,84,147,84,85,5.2,102,210,58,132
+fefifo_8036_1_169,8036,1,169,Fiber,45,Female,White,Single/Never married,Some post-graduate school,Working full-time,No,1.67,77.7,27.86,40.157,118,73,114,74,113,71,90,7.6,69,175,80,81
+fefifo_8002_7_17,8002,7,17,Fiber,51.9,Female,White,Single/Never married,College graduate,Working full-time,No,1.74,89.1,29.43,34.055,109,71,106,70,106,71,103,9,126,208,67,116
+fefifo_8036_2_170,8036,2,170,Fiber,45,Female,White,Single/Never married,Some post-graduate school,Working full-time,No,1.67,77.7,27.86,40.157,118,73,114,74,113,71,90,7.6,69,175,80,81
+fefifo_8035_4_171,8035,4,171,Fiber,64.2,Male,White,Married/Partnered,Post-graduate degree,Working part-time,No,1.68,69.5,24.62,38.583,147,82,139,84,147,84,85,5.2,102,210,58,132
+fefifo_8031_9_172,8031,9,172,Fermented,74.5,Female,White,Divorced,Some college,Retired,No,1.64,64,23.8,36.614,124,78,114,76,113,75,99,7.3,152,252,48,174
+fefifo_8031_8_174,8031,8,174,Fermented,74.5,Female,White,Divorced,Some college,Retired,No,1.64,64,23.8,36.614,124,78,114,76,113,75,99,7.3,152,252,48,174
+fefifo_8020_9_175,8020,9,175,Fermented,56.2,Male,Asian,Single/Never married,Post-graduate degree,Working part-time,No,1.67,60.6,21.81,31.496,115,75,112,72,116,74,92,6.4,82,197,55,126
+fefifo_8041_3_176,8041,3,176,Fiber,55.4,Female,White,Married/Partnered,Post-graduate degree,Unemployed,No,1.7,73.9,25.57,31.496,136,81,130,82,136,80,94,5.9,52,216,67,139
+fefifo_8026_9_177,8026,9,177,Fermented,73.4,Female,White,Divorced,College graduate,Retired,No,1.65,68.2,25.05,35.039,155,86,153,82,158,82,100,6.4,51,210,80,120
+fefifo_8033_7_178,8033,7,178,Fermented,52.8,Female,White,Married/Partnered,College graduate,Working full-time,No,1.62,83.3,31.62,42.126,116,79,116,76,114,77,89,17.9,138,219,35,156
+fefifo_8041_4_179,8041,4,179,Fiber,55.4,Female,White,Married/Partnered,Post-graduate degree,Unemployed,No,1.7,73.9,25.57,31.496,136,81,130,82,136,80,94,5.9,52,216,67,139
+fefifo_8027_1_18,8027,1,18,Fermented,44.4,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,79.3,26.65,33.858,114,72,112,75,111,67,97,7.3,45,192,77,106
+fefifo_8011_9_180,8011,9,180,Fermented,58.7,Female,Asian,Married/Partnered,Some college,Working full-time,No,1.52,64,27.88,35.433,112,74,111,72,118,77,87,12.1,111,238,77,139
+fefifo_8034_7_181,8034,7,181,Fermented,64,Female,White,Married/Partnered,Post-graduate degree,Retired,No,1.74,77.7,25.66,35.827,143,79,136,79,144,80,97,7.8,62,244,97,135
+fefifo_8035_3_182,8035,3,182,Fiber,64.2,Male,White,Married/Partnered,Post-graduate degree,Working part-time,No,1.68,69.5,24.62,38.583,147,82,139,84,147,84,85,5.2,102,210,58,132
+fefifo_8023_6_183,8023,6,183,Fiber,71.5,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.79,100.6,31.43,46.85,131,70,121,70,123,69,90,7.9,67,190,73,104
+fefifo_8018_5_184,8018,5,184,Fiber,48.1,Female,Asian,Married/Partnered,Some post-graduate school,Working part-time,No,1.65,70.2,25.94,32.677,123,71,101,65,105,68,104,8.5,102,213,55,138
+fefifo_8028_8_185,8028,8,185,Fermented,59.4,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.73,66.4,22.29,NA,116,72,119,77,115,77,95,15.8,209,231,53,136
+fefifo_8007_9_186,8007,9,186,Fiber,44.2,Male,White,Single/Never married,Post-graduate degree,Working full-time,No,1.79,64.4,20.1,33.071,115,84,122,85,131,79,97,11.5,194,169,35,95
+fefifo_8029_8_187,8029,8,187,Fiber,26.1,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.69,74,26,36.142,108,70,110,72,107,69,76,13.5,74,178,68,95
+fefifo_8041_5_188,8041,5,188,Fiber,55.4,Female,White,Married/Partnered,Post-graduate degree,Unemployed,No,1.7,73.9,25.57,31.496,136,81,130,82,136,80,94,5.9,52,216,67,139
+fefifo_8029_9_189,8029,9,189,Fiber,26.1,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.69,74,26,36.142,108,70,110,72,107,69,76,13.5,74,178,68,95
+fefifo_8004_5_19,8004,5,19,Fermented,60.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.58,44.2,17.71,27.559,124,75,138,78,148,77,94,6.3,109,208,84,102
+fefifo_8007_8_191,8007,8,191,Fiber,44.2,Male,White,Single/Never married,Post-graduate degree,Working full-time,No,1.79,64.4,20.1,33.071,115,84,122,85,131,79,97,11.5,194,169,35,95
+fefifo_8028_9_192,8028,9,192,Fermented,59.4,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.73,66.4,22.29,NA,116,72,119,77,115,77,95,15.8,209,231,53,136
+fefifo_8020_7_193,8020,7,193,Fermented,56.2,Male,Asian,Single/Never married,Post-graduate degree,Working part-time,No,1.67,60.6,21.81,31.496,115,75,112,72,116,74,92,6.4,82,197,55,126
+fefifo_8029_6_194,8029,6,194,Fiber,26.1,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.69,74,26,36.142,108,70,110,72,107,69,76,13.5,74,178,68,95
+fefifo_8029_7_195,8029,7,195,Fiber,26.1,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.69,74,26,36.142,108,70,110,72,107,69,76,13.5,74,178,68,95
+fefifo_8013_8_196,8013,8,196,Fiber,47.6,Female,White,Single/Never married,College graduate,Working full-time,No,1.7,85.7,29.65,37.008,116,80,116,70,113,76,93,10.8,129,222,37,159
+fefifo_8009_9_197,8009,9,197,Fiber,44.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.59,50.6,20.02,29.921,123,74,102,70,109,73,88,7.7,53,170,63,96
+fefifo_8034_6_198,8034,6,198,Fermented,64,Female,White,Married/Partnered,Post-graduate degree,Retired,No,1.74,77.7,25.66,35.827,143,79,136,79,144,80,97,7.8,62,244,97,135
+fefifo_8028_7_199,8028,7,199,Fermented,59.4,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.73,66.4,22.29,NA,116,72,119,77,115,77,95,15.8,209,231,53,136
+fefifo_8001_6_2,8001,6,2,Fiber,29.8,Female,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.56,54.7,22.39,32.283,110,76,106,72,108,73,90,8.9,56,163,89,63
+fefifo_8025_2_20,8025,2,20,Fermented,54.8,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,68.7,23.36,30.315,112,73,106,72,111,73,113,13,111,184,71,91
+fefifo_8029_5_200,8029,5,200,Fiber,26.1,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.69,74,26,36.142,108,70,110,72,107,69,76,13.5,74,178,68,95
+fefifo_8009_7_201,8009,7,201,Fiber,44.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.59,50.6,20.02,29.921,123,74,102,70,109,73,88,7.7,53,170,63,96
+fefifo_8009_8_202,8009,8,202,Fiber,44.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.59,50.6,20.02,29.921,123,74,102,70,109,73,88,7.7,53,170,63,96
+fefifo_8020_8_203,8020,8,203,Fermented,56.2,Male,Asian,Single/Never married,Post-graduate degree,Working part-time,No,1.67,60.6,21.81,31.496,115,75,112,72,116,74,92,6.4,82,197,55,126
+fefifo_8013_9_204,8013,9,204,Fiber,47.6,Female,White,Single/Never married,College graduate,Working full-time,No,1.7,85.7,29.65,37.008,116,80,116,70,113,76,93,10.8,129,222,37,159
+fefifo_8017_7_205,8017,7,205,Fiber,45.5,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.65,67.9,24.88,32.874,137,77,120,79,121,77,78,10.6,108,240,60,158
+fefifo_8030_5_206,8030,5,206,Fermented,56.6,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.87,76.7,21.86,33.858,146,97,143,99,128,90,96,9.1,114,215,67,125
+fefifo_8041_1_207,8041,1,207,Fiber,55.4,Female,White,Married/Partnered,Post-graduate degree,Unemployed,No,1.7,73.9,25.57,31.496,136,81,130,82,136,80,94,5.9,52,216,67,139
+fefifo_8022_6_208,8022,6,208,Fiber,33.1,Male,White,Single/Never married,College graduate,Working full-time,No,1.79,98.5,30.71,40.63,113,67,121,74,112,73,111,15,117,171,38,110
+fefifo_8032_7_209,8032,7,209,Fermented,55.5,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.71,92.1,31.68,41.732,112,74,120,78,108,74,92,8.4,117,235,58,154
+fefifo_8021_2_21,8021,2,21,Fermented,39.6,Male,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.64,68.5,25.47,34.252,121,78,108,71,113,76,111,16.8,122,226,48,154
+fefifo_8014_8_210,8014,8,210,Fermented,55.2,Male,White,Married/Partnered,College graduate,Working full-time,No,1.77,87.7,27.99,37.402,135,82,125,80,124,77,95,10.9,86,171,72,82
+fefifo_8041_2_211,8041,2,211,Fiber,55.4,Female,White,Married/Partnered,Post-graduate degree,Unemployed,No,1.7,73.9,25.57,31.496,136,81,130,82,136,80,94,5.9,52,216,67,139
+fefifo_8033_5_212,8033,5,212,Fermented,52.8,Female,White,Married/Partnered,College graduate,Working full-time,No,1.62,83.3,31.62,42.126,116,79,116,76,114,77,89,17.9,138,219,35,156
+fefifo_8025_6_213,8025,6,213,Fermented,54.8,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,68.7,23.36,30.315,112,73,106,72,111,73,113,13,111,184,71,91
+fefifo_8004_8_214,8004,8,214,Fermented,60.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.58,44.2,17.71,27.559,124,75,138,78,148,77,94,6.3,109,208,84,102
+fefifo_8004_9_215,8004,9,215,Fermented,60.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.58,44.2,17.71,27.559,124,75,138,78,148,77,94,6.3,109,208,84,102
+fefifo_8011_7_216,8011,7,216,Fermented,58.7,Female,Asian,Married/Partnered,Some college,Working full-time,No,1.52,64,27.88,35.433,112,74,111,72,118,77,87,12.1,111,238,77,139
+fefifo_8037_5_217,8037,5,217,Fiber,60.8,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.72,73.9,25.57,31.496,136,81,130,82,136,80,132,14.8,264,194,28,113
+fefifo_8027_7_218,8027,7,218,Fermented,44.4,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,79.3,26.65,33.858,114,72,112,75,111,67,97,7.3,45,192,77,106
+fefifo_8018_7_219,8018,7,219,Fiber,48.1,Female,Asian,Married/Partnered,Some post-graduate school,Working part-time,No,1.65,70.2,25.94,32.677,123,71,101,65,105,68,104,8.5,102,213,55,138
+fefifo_8008_6_22,8008,6,22,Fermented,45.7,Female,White,Divorced,College graduate,Working full-time,No,1.64,57.3,21.3,NA,102,59,96,62,91,58,87,8.5,58,154,53,89
+fefifo_8025_7_220,8025,7,220,Fermented,54.8,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,68.7,23.36,30.315,112,73,106,72,111,73,113,13,111,184,71,91
+fefifo_8014_9_221,8014,9,221,Fermented,55.2,Male,White,Married/Partnered,College graduate,Working full-time,No,1.77,87.7,27.99,37.402,135,82,125,80,124,77,95,10.9,86,171,72,82
+fefifo_8038_5_222,8038,5,222,Fiber,57.5,Female,White,Married/Partnered,College graduate,Working full-time,No,1.69,64,22.3,35.4,153,87,154,84,143,87,88,6.5,54,234,102,121
+fefifo_8038_3_223,8038,3,223,Fiber,57.5,Female,White,Married/Partnered,College graduate,Working full-time,No,1.69,64,22.3,35.4,153,87,154,84,143,87,88,6.5,54,234,102,121
+fefifo_8038_2_224,8038,2,224,Fiber,57.5,Female,White,Married/Partnered,College graduate,Working full-time,No,1.69,64,22.3,35.4,153,87,154,84,143,87,88,6.5,54,234,102,121
+fefifo_8038_4_225,8038,4,225,Fiber,57.5,Female,White,Married/Partnered,College graduate,Working full-time,No,1.69,64,22.3,35.4,153,87,154,84,143,87,88,6.5,54,234,102,121
+fefifo_8039_1_226,8039,1,226,Fiber,45,Male,White,Married/Partnered,College graduate,Working full-time,No,1.82,84.3,25.37,39.134,125,83,111,80,121,81,101,11,202,226,38,148
+fefifo_8034_4_227,8034,4,227,Fermented,64,Female,White,Married/Partnered,Post-graduate degree,Retired,No,1.74,77.7,25.66,35.827,143,79,136,79,144,80,97,7.8,62,244,97,135
+fefifo_8037_2_228,8037,2,228,Fiber,60.8,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.72,73.9,25.57,31.496,136,81,130,82,136,80,132,14.8,264,194,28,113
+fefifo_8037_4_229,8037,4,229,Fiber,60.8,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.72,73.9,25.57,31.496,136,81,130,82,136,80,132,14.8,264,194,28,113
+fefifo_8001_7_23,8001,7,23,Fiber,29.8,Female,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.56,54.7,22.39,32.283,110,76,106,72,108,73,90,8.9,56,163,89,63
+fefifo_8037_3_230,8037,3,230,Fiber,60.8,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.72,73.9,25.57,31.496,136,81,130,82,136,80,132,14.8,264,194,28,113
+fefifo_8034_3_231,8034,3,231,Fermented,64,Female,White,Married/Partnered,Post-graduate degree,Retired,No,1.74,77.7,25.66,35.827,143,79,136,79,144,80,97,7.8,62,244,97,135
+fefifo_8034_2_232,8034,2,232,Fermented,64,Female,White,Married/Partnered,Post-graduate degree,Retired,No,1.74,77.7,25.66,35.827,143,79,136,79,144,80,97,7.8,62,244,97,135
+fefifo_8034_9_233,8034,9,233,Fermented,64,Female,White,Married/Partnered,Post-graduate degree,Retired,No,1.74,77.7,25.66,35.827,143,79,136,79,144,80,97,7.8,62,244,97,135
+fefifo_8033_9_234,8033,9,234,Fermented,52.8,Female,White,Married/Partnered,College graduate,Working full-time,No,1.62,83.3,31.62,42.126,116,79,116,76,114,77,89,17.9,138,219,35,156
+fefifo_8039_6_235,8039,6,235,Fiber,45,Male,White,Married/Partnered,College graduate,Working full-time,No,1.82,84.3,25.37,39.134,125,83,111,80,121,81,101,11,202,226,38,148
+fefifo_8022_8_236,8022,8,236,Fiber,33.1,Male,White,Single/Never married,College graduate,Working full-time,No,1.79,98.5,30.71,40.63,113,67,121,74,112,73,111,15,117,171,38,110
+fefifo_8034_8_237,8034,8,237,Fermented,64,Female,White,Married/Partnered,Post-graduate degree,Retired,No,1.74,77.7,25.66,35.827,143,79,136,79,144,80,97,7.8,62,244,97,135
+fefifo_8033_8_238,8033,8,238,Fermented,52.8,Female,White,Married/Partnered,College graduate,Working full-time,No,1.62,83.3,31.62,42.126,116,79,116,76,114,77,89,17.9,138,219,35,156
+fefifo_8022_9_239,8022,9,239,Fiber,33.1,Male,White,Single/Never married,College graduate,Working full-time,No,1.79,98.5,30.71,40.63,113,67,121,74,112,73,111,15,117,171,38,110
+fefifo_8028_2_24,8028,2,24,Fermented,59.4,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.73,66.4,22.29,NA,116,72,119,77,115,77,95,15.8,209,231,53,136
+fefifo_8026_8_240,8026,8,240,Fermented,73.4,Female,White,Divorced,College graduate,Retired,No,1.65,68.2,25.05,35.039,155,86,153,82,158,82,100,6.4,51,210,80,120
+fefifo_8039_4_241,8039,4,241,Fiber,45,Male,White,Married/Partnered,College graduate,Working full-time,No,1.82,84.3,25.37,39.134,125,83,111,80,121,81,101,11,202,226,38,148
+fefifo_8039_3_242,8039,3,242,Fiber,45,Male,White,Married/Partnered,College graduate,Working full-time,No,1.82,84.3,25.37,39.134,125,83,111,80,121,81,101,11,202,226,38,148
+fefifo_8037_6_243,8037,6,243,Fiber,60.8,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.72,73.9,25.57,31.496,136,81,130,82,136,80,132,14.8,264,194,28,113
+fefifo_8036_3_244,8036,3,244,Fiber,45,Female,White,Single/Never married,Some post-graduate school,Working full-time,No,1.67,77.7,27.86,40.157,118,73,114,74,113,71,90,7.6,69,175,80,81
+fefifo_8036_4_246,8036,4,246,Fiber,45,Female,White,Single/Never married,Some post-graduate school,Working full-time,No,1.67,77.7,27.86,40.157,118,73,114,74,113,71,90,7.6,69,175,80,81
+fefifo_8024_6_248,8024,6,248,Fermented,49.3,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.68,78.5,27.95,38.071,128,83,126,86,127,84,76,10.1,247,245,44,152
+fefifo_8038_6_249,8038,6,249,Fiber,57.5,Female,White,Married/Partnered,College graduate,Working full-time,No,1.69,64,22.3,35.4,153,87,154,84,143,87,88,6.5,54,234,102,121
+fefifo_8028_1_25,8028,1,25,Fermented,59.4,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.73,66.4,22.29,NA,116,72,119,77,115,77,95,15.8,209,231,53,136
+fefifo_8016_8_250,8016,8,250,Fermented,62.5,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.52,61.3,26.71,27.953,107,74,105,72,105,71,105,8.6,104,223,82,120
+fefifo_8030_6_251,8030,6,251,Fermented,56.6,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.87,76.7,21.86,33.858,146,97,143,99,128,90,96,9.1,114,215,67,125
+fefifo_8024_5_252,8024,5,252,Fermented,49.3,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.68,78.5,27.95,38.071,128,83,126,86,127,84,76,10.1,247,245,44,152
+fefifo_8022_7_254,8022,7,254,Fiber,33.1,Male,White,Single/Never married,College graduate,Working full-time,No,1.79,98.5,30.71,40.63,113,67,121,74,112,73,111,15,117,171,38,110
+fefifo_8026_7_255,8026,7,255,Fermented,73.4,Female,White,Divorced,College graduate,Retired,No,1.65,68.2,25.05,35.039,155,86,153,82,158,82,100,6.4,51,210,80,120
+fefifo_8033_6_256,8033,6,256,Fermented,52.8,Female,White,Married/Partnered,College graduate,Working full-time,No,1.62,83.3,31.62,42.126,116,79,116,76,114,77,89,17.9,138,219,35,156
+fefifo_8035_2_257,8035,2,257,Fiber,64.2,Male,White,Married/Partnered,Post-graduate degree,Working part-time,No,1.68,69.5,24.62,38.583,147,82,139,84,147,84,85,5.2,102,210,58,132
+fefifo_8031_7_258,8031,7,258,Fermented,74.5,Female,White,Divorced,Some college,Retired,No,1.64,64,23.8,36.614,124,78,114,76,113,75,99,7.3,152,252,48,174
+fefifo_8028_5_259,8028,5,259,Fermented,59.4,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.73,66.4,22.29,NA,116,72,119,77,115,77,95,15.8,209,231,53,136
+fefifo_8021_1_26,8021,1,26,Fermented,39.6,Male,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.64,68.5,25.47,34.252,121,78,108,71,113,76,111,16.8,122,226,48,154
+fefifo_8028_6_260,8028,6,260,Fermented,59.4,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.73,66.4,22.29,NA,116,72,119,77,115,77,95,15.8,209,231,53,136
+fefifo_8008_9_261,8008,9,261,Fermented,45.7,Female,White,Divorced,College graduate,Working full-time,No,1.64,57.3,21.3,NA,102,59,96,62,91,58,87,8.5,58,154,53,89
+fefifo_8008_8_262,8008,8,262,Fermented,45.7,Female,White,Divorced,College graduate,Working full-time,No,1.64,57.3,21.3,NA,102,59,96,62,91,58,87,8.5,58,154,53,89
+fefifo_8006_9_263,8006,9,263,Fiber,57.3,Female,White,Married/Partnered,College graduate,Working full-time,No,1.57,59,23.84,31.89,128,80,113,76,112,75,112,7.3,87,211,59,135
+fefifo_8034_5_264,8034,5,264,Fermented,64,Female,White,Married/Partnered,Post-graduate degree,Retired,No,1.74,77.7,25.66,35.827,143,79,136,79,144,80,97,7.8,62,244,97,135
+fefifo_8006_8_265,8006,8,265,Fiber,57.3,Female,White,Married/Partnered,College graduate,Working full-time,No,1.57,59,23.84,31.89,128,80,113,76,112,75,112,7.3,87,211,59,135
+fefifo_8018_8_266,8018,8,266,Fiber,48.1,Female,Asian,Married/Partnered,Some post-graduate school,Working part-time,No,1.65,70.2,25.94,32.677,123,71,101,65,105,68,104,8.5,102,213,55,138
+fefifo_8029_4_267,8029,4,267,Fiber,26.1,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.69,74,26,36.142,108,70,110,72,107,69,76,13.5,74,178,68,95
+fefifo_8029_3_268,8029,3,268,Fiber,26.1,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.69,74,26,36.142,108,70,110,72,107,69,76,13.5,74,178,68,95
+fefifo_8025_1_27,8025,1,27,Fermented,54.8,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,68.7,23.36,30.315,112,73,106,72,111,73,113,13,111,184,71,91
+fefifo_8033_3_270,8033,3,270,Fermented,52.8,Female,White,Married/Partnered,College graduate,Working full-time,No,1.62,83.3,31.62,42.126,116,79,116,76,114,77,89,17.9,138,219,35,156
+fefifo_8032_6_271,8032,6,271,Fermented,55.5,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.71,92.1,31.68,41.732,112,74,120,78,108,74,92,8.4,117,235,58,154
+fefifo_8031_6_272,8031,6,272,Fermented,74.5,Female,White,Divorced,Some college,Retired,No,1.64,64,23.8,36.614,124,78,114,76,113,75,99,7.3,152,252,48,174
+fefifo_8032_3_273,8032,3,273,Fermented,55.5,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.71,92.1,31.68,41.732,112,74,120,78,108,74,92,8.4,117,235,58,154
+fefifo_8031_5_274,8031,5,274,Fermented,74.5,Female,White,Divorced,Some college,Retired,No,1.64,64,23.8,36.614,124,78,114,76,113,75,99,7.3,152,252,48,174
+fefifo_8022_4_275,8022,4,275,Fiber,33.1,Male,White,Single/Never married,College graduate,Working full-time,No,1.79,98.5,30.71,40.63,113,67,121,74,112,73,111,15,117,171,38,110
+fefifo_8026_6_276,8026,6,276,Fermented,73.4,Female,White,Divorced,College graduate,Retired,No,1.65,68.2,25.05,35.039,155,86,153,82,158,82,100,6.4,51,210,80,120
+fefifo_8028_3_277,8028,3,277,Fermented,59.4,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.73,66.4,22.29,NA,116,72,119,77,115,77,95,15.8,209,231,53,136
+fefifo_8025_5_278,8025,5,278,Fermented,54.8,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,68.7,23.36,30.315,112,73,106,72,111,73,113,13,111,184,71,91
+fefifo_8033_4_279,8033,4,279,Fermented,52.8,Female,White,Married/Partnered,College graduate,Working full-time,No,1.62,83.3,31.62,42.126,116,79,116,76,114,77,89,17.9,138,219,35,156
+fefifo_8032_2_28,8032,2,28,Fermented,55.5,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.71,92.1,31.68,41.732,112,74,120,78,108,74,92,8.4,117,235,58,154
+fefifo_8027_5_280,8027,5,280,Fermented,44.4,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,79.3,26.65,33.858,114,72,112,75,111,67,97,7.3,45,192,77,106
+fefifo_8028_4_281,8028,4,281,Fermented,59.4,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.73,66.4,22.29,NA,116,72,119,77,115,77,95,15.8,209,231,53,136
+fefifo_8024_3_282,8024,3,282,Fermented,49.3,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.68,78.5,27.95,38.071,128,83,126,86,127,84,76,10.1,247,245,44,152
+fefifo_8027_6_283,8027,6,283,Fermented,44.4,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,79.3,26.65,33.858,114,72,112,75,111,67,97,7.3,45,192,77,106
+fefifo_8021_6_285,8021,6,285,Fermented,39.6,Male,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.64,68.5,25.47,34.252,121,78,108,71,113,76,111,16.8,122,226,48,154
+fefifo_8024_4_286,8024,4,286,Fermented,49.3,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.68,78.5,27.95,38.071,128,83,126,86,127,84,76,10.1,247,245,44,152
+fefifo_8022_5_287,8022,5,287,Fiber,33.1,Male,White,Single/Never married,College graduate,Working full-time,No,1.79,98.5,30.71,40.63,113,67,121,74,112,73,111,15,117,171,38,110
+fefifo_8021_7_288,8021,7,288,Fermented,39.6,Male,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.64,68.5,25.47,34.252,121,78,108,71,113,76,111,16.8,122,226,48,154
+fefifo_8017_6_289,8017,6,289,Fiber,45.5,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.65,67.9,24.88,32.874,137,77,120,79,121,77,78,10.6,108,240,60,158
+fefifo_8032_1_29,8032,1,29,Fermented,55.5,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.71,92.1,31.68,41.732,112,74,120,78,108,74,92,8.4,117,235,58,154
+fefifo_8018_6_290,8018,6,290,Fiber,48.1,Female,Asian,Married/Partnered,Some post-graduate school,Working part-time,No,1.65,70.2,25.94,32.677,123,71,101,65,105,68,104,8.5,102,213,55,138
+fefifo_8023_7_291,8023,7,291,Fiber,71.5,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.79,100.6,31.43,46.85,131,70,121,70,123,69,90,7.9,67,190,73,104
+fefifo_8016_7_292,8016,7,292,Fermented,62.5,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.52,61.3,26.71,27.953,107,74,105,72,105,71,105,8.6,104,223,82,120
+fefifo_8017_9_293,8017,9,293,Fiber,45.5,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.65,67.9,24.88,32.874,137,77,120,79,121,77,78,10.6,108,240,60,158
+fefifo_8027_9_294,8027,9,294,Fermented,44.4,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,79.3,26.65,33.858,114,72,112,75,111,67,97,7.3,45,192,77,106
+fefifo_8032_9_295,8032,9,295,Fermented,55.5,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.71,92.1,31.68,41.732,112,74,120,78,108,74,92,8.4,117,235,58,154
+fefifo_8035_5_296,8035,5,296,Fiber,64.2,Male,White,Married/Partnered,Post-graduate degree,Working part-time,No,1.68,69.5,24.62,38.583,147,82,139,84,147,84,85,5.2,102,210,58,132
+fefifo_8039_5_297,8039,5,297,Fiber,45,Male,White,Married/Partnered,College graduate,Working full-time,No,1.82,84.3,25.37,39.134,125,83,111,80,121,81,101,11,202,226,38,148
+fefifo_8027_8_298,8027,8,298,Fermented,44.4,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,79.3,26.65,33.858,114,72,112,75,111,67,97,7.3,45,192,77,106
+fefifo_8023_9_299,8023,9,299,Fiber,71.5,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.79,100.6,31.43,46.85,131,70,121,70,123,69,90,7.9,67,190,73,104
+fefifo_8018_1_3,8018,1,3,Fiber,48.1,Female,Asian,Married/Partnered,Some post-graduate school,Working part-time,No,1.65,70.2,25.94,32.677,123,71,101,65,105,68,104,8.5,102,213,55,138
+fefifo_8023_2_30,8023,2,30,Fiber,71.5,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.79,100.6,31.43,46.85,131,70,121,70,123,69,90,7.9,67,190,73,104
+fefifo_8017_8_302,8017,8,302,Fiber,45.5,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.65,67.9,24.88,32.874,137,77,120,79,121,77,78,10.6,108,240,60,158
+fefifo_8037_7_303,8037,7,303,Fiber,60.8,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.72,73.9,25.57,31.496,136,81,130,82,136,80,132,14.8,264,194,28,113
+fefifo_8025_9_304,8025,9,304,Fermented,54.8,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,68.7,23.36,30.315,112,73,106,72,111,73,113,13,111,184,71,91
+fefifo_8038_7_305,8038,7,305,Fiber,57.5,Female,White,Married/Partnered,College graduate,Working full-time,No,1.69,64,22.3,35.4,153,87,154,84,143,87,88,6.5,54,234,102,121
+fefifo_8025_8_306,8025,8,306,Fermented,54.8,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.72,68.7,23.36,30.315,112,73,106,72,111,73,113,13,111,184,71,91
+fefifo_8024_8_308,8024,8,308,Fermented,49.3,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.68,78.5,27.95,38.071,128,83,126,86,127,84,76,10.1,247,245,44,152
+fefifo_8036_6_309,8036,6,309,Fiber,45,Female,White,Single/Never married,Some post-graduate school,Working full-time,No,1.67,77.7,27.86,40.157,118,73,114,74,113,71,90,7.6,69,175,80,81
+fefifo_8023_1_31,8023,1,31,Fiber,71.5,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.79,100.6,31.43,46.85,131,70,121,70,123,69,90,7.9,67,190,73,104
+fefifo_8038_9_310,8038,9,310,Fiber,57.5,Female,White,Married/Partnered,College graduate,Working full-time,No,1.69,64,22.3,35.4,153,87,154,84,143,87,88,6.5,54,234,102,121
+fefifo_8030_9_311,8030,9,311,Fermented,56.6,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.87,76.7,21.86,33.858,146,97,143,99,128,90,96,9.1,114,215,67,125
+fefifo_8030_8_312,8030,8,312,Fermented,56.6,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.87,76.7,21.86,33.858,146,97,143,99,128,90,96,9.1,114,215,67,125
+fefifo_8036_5_313,8036,5,313,Fiber,45,Female,White,Single/Never married,Some post-graduate school,Working full-time,No,1.67,77.7,27.86,40.157,118,73,114,74,113,71,90,7.6,69,175,80,81
+fefifo_8037_9_314,8037,9,314,Fiber,60.8,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.72,73.9,25.57,31.496,136,81,130,82,136,80,132,14.8,264,194,28,113
+fefifo_8037_8_316,8037,8,316,Fiber,60.8,Male,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.72,73.9,25.57,31.496,136,81,130,82,136,80,132,14.8,264,194,28,113
+fefifo_8041_7_317,8041,7,317,Fiber,55.4,Female,White,Married/Partnered,Post-graduate degree,Unemployed,No,1.7,73.9,25.57,31.496,136,81,130,82,136,80,94,5.9,52,216,67,139
+fefifo_8036_8_318,8036,8,318,Fiber,45,Female,White,Single/Never married,Some post-graduate school,Working full-time,No,1.67,77.7,27.86,40.157,118,73,114,74,113,71,90,7.6,69,175,80,81
+fefifo_8024_9_319,8024,9,319,Fermented,49.3,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.68,78.5,27.95,38.071,128,83,126,86,127,84,76,10.1,247,245,44,152
+fefifo_8041_6_320,8041,6,320,Fiber,55.4,Female,White,Married/Partnered,Post-graduate degree,Unemployed,No,1.7,73.9,25.57,31.496,136,81,130,82,136,80,94,5.9,52,216,67,139
+fefifo_8036_7_321,8036,7,321,Fiber,45,Female,White,Single/Never married,Some post-graduate school,Working full-time,No,1.67,77.7,27.86,40.157,118,73,114,74,113,71,90,7.6,69,175,80,81
+fefifo_8038_8_323,8038,8,323,Fiber,57.5,Female,White,Married/Partnered,College graduate,Working full-time,No,1.69,64,22.3,35.4,153,87,154,84,143,87,88,6.5,54,234,102,121
+fefifo_8023_8_324,8023,8,324,Fiber,71.5,Male,White,Divorced,Post-graduate degree,Working full-time,No,1.79,100.6,31.43,46.85,131,70,121,70,123,69,90,7.9,67,190,73,104
+fefifo_8035_6_325,8035,6,325,Fiber,64.2,Male,White,Married/Partnered,Post-graduate degree,Working part-time,No,1.68,69.5,24.62,38.583,147,82,139,84,147,84,85,5.2,102,210,58,132
+fefifo_8035_8_326,8035,8,326,Fiber,64.2,Male,White,Married/Partnered,Post-graduate degree,Working part-time,No,1.68,69.5,24.62,38.583,147,82,139,84,147,84,85,5.2,102,210,58,132
+fefifo_8035_9_327,8035,9,327,Fiber,64.2,Male,White,Married/Partnered,Post-graduate degree,Working part-time,No,1.68,69.5,24.62,38.583,147,82,139,84,147,84,85,5.2,102,210,58,132
+fefifo_8036_9_328,8036,9,328,Fiber,45,Female,White,Single/Never married,Some post-graduate school,Working full-time,No,1.67,77.7,27.86,40.157,118,73,114,74,113,71,90,7.6,69,175,80,81
+fefifo_8039_7_329,8039,7,329,Fiber,45,Male,White,Married/Partnered,College graduate,Working full-time,No,1.82,84.3,25.37,39.134,125,83,111,80,121,81,101,11,202,226,38,148
+fefifo_8011_1_33,8011,1,33,Fermented,58.7,Female,Asian,Married/Partnered,Some college,Working full-time,No,1.52,64,27.88,35.433,112,74,111,72,118,77,87,12.1,111,238,77,139
+fefifo_8039_8_330,8039,8,330,Fiber,45,Male,White,Married/Partnered,College graduate,Working full-time,No,1.82,84.3,25.37,39.134,125,83,111,80,121,81,101,11,202,226,38,148
+fefifo_8039_9_331,8039,9,331,Fiber,45,Male,White,Married/Partnered,College graduate,Working full-time,No,1.82,84.3,25.37,39.134,125,83,111,80,121,81,101,11,202,226,38,148
+fefifo_8041_8_332,8041,8,332,Fiber,55.4,Female,White,Married/Partnered,Post-graduate degree,Unemployed,No,1.7,73.9,25.57,31.496,136,81,130,82,136,80,94,5.9,52,216,67,139
+fefifo_8041_9_333,8041,9,333,Fiber,55.4,Female,White,Married/Partnered,Post-graduate degree,Unemployed,No,1.7,73.9,25.57,31.496,136,81,130,82,136,80,94,5.9,52,216,67,139
+fefifo_8021_8_334,8021,8,334,Fermented,39.6,Male,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.64,68.5,25.47,34.252,121,78,108,71,113,76,111,16.8,122,226,48,154
+fefifo_8021_9_335,8021,9,335,Fermented,39.6,Male,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.64,68.5,25.47,34.252,121,78,108,71,113,76,111,16.8,122,226,48,154
+fefifo_8032_8_338,8032,8,338,Fermented,55.5,Female,White,Divorced,Post-graduate degree,Working full-time,No,1.71,92.1,31.68,41.732,112,74,120,78,108,74,92,8.4,117,235,58,154
+fefifo_8014_2_34,8014,2,34,Fermented,55.2,Male,White,Married/Partnered,College graduate,Working full-time,No,1.77,87.7,27.99,37.402,135,82,125,80,124,77,95,10.9,86,171,72,82
+fefifo_8001_5_35,8001,5,35,Fiber,29.8,Female,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.56,54.7,22.39,32.283,110,76,106,72,108,73,90,8.9,56,163,89,63
+fefifo_8002_5_36,8002,5,36,Fiber,51.9,Female,White,Single/Never married,College graduate,Working full-time,No,1.74,89.1,29.43,34.055,109,71,106,70,106,71,103,9,126,208,67,116
+fefifo_8018_2_37,8018,2,37,Fiber,48.1,Female,Asian,Married/Partnered,Some post-graduate school,Working part-time,No,1.65,70.2,25.94,32.677,123,71,101,65,105,68,104,8.5,102,213,55,138
+fefifo_8003_5_38,8003,5,38,Fiber,44.1,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.71,64.4,22.02,33.465,108,71,107,70,100,67,85,7.1,87,203,83,103
+fefifo_8033_1_4,8033,1,4,Fermented,52.8,Female,White,Married/Partnered,College graduate,Working full-time,No,1.62,83.3,31.62,42.126,116,79,116,76,114,77,89,17.9,138,219,35,156
+fefifo_8014_1_40,8014,1,40,Fermented,55.2,Male,White,Married/Partnered,College graduate,Working full-time,No,1.77,87.7,27.99,37.402,135,82,125,80,124,77,95,10.9,86,171,72,82
+fefifo_8016_2_41,8016,2,41,Fermented,62.5,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.52,61.3,26.71,27.953,107,74,105,72,105,71,105,8.6,104,223,82,120
+fefifo_8022_1_42,8022,1,42,Fiber,33.1,Male,White,Single/Never married,College graduate,Working full-time,No,1.79,98.5,30.71,40.63,113,67,121,74,112,73,111,15,117,171,38,110
+fefifo_8016_1_43,8016,1,43,Fermented,62.5,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.52,61.3,26.71,27.953,107,74,105,72,105,71,105,8.6,104,223,82,120
+fefifo_8001_1_48,8001,1,48,Fiber,29.8,Female,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.56,54.7,22.39,32.283,110,76,106,72,108,73,90,8.9,56,163,89,63
+fefifo_8001_2_49,8001,2,49,Fiber,29.8,Female,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.56,54.7,22.39,32.283,110,76,106,72,108,73,90,8.9,56,163,89,63
+fefifo_8022_2_5,8022,2,5,Fiber,33.1,Male,White,Single/Never married,College graduate,Working full-time,No,1.79,98.5,30.71,40.63,113,67,121,74,112,73,111,15,117,171,38,110
+fefifo_8001_3_50,8001,3,50,Fiber,29.8,Female,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.56,54.7,22.39,32.283,110,76,106,72,108,73,90,8.9,56,163,89,63
+fefifo_8001_4_51,8001,4,51,Fiber,29.8,Female,Asian,Married/Partnered,Post-graduate degree,Working full-time,No,1.56,54.7,22.39,32.283,110,76,106,72,108,73,90,8.9,56,163,89,63
+fefifo_8003_4_52,8003,4,52,Fiber,44.1,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.71,64.4,22.02,33.465,108,71,107,70,100,67,85,7.1,87,203,83,103
+fefifo_8003_3_53,8003,3,53,Fiber,44.1,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.71,64.4,22.02,33.465,108,71,107,70,100,67,85,7.1,87,203,83,103
+fefifo_8003_1_54,8003,1,54,Fiber,44.1,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.71,64.4,22.02,33.465,108,71,107,70,100,67,85,7.1,87,203,83,103
+fefifo_8003_2_55,8003,2,55,Fiber,44.1,Female,White,Married/Partnered,Post-graduate degree,Working full-time,No,1.71,64.4,22.02,33.465,108,71,107,70,100,67,85,7.1,87,203,83,103
+fefifo_8002_4_56,8002,4,56,Fiber,51.9,Female,White,Single/Never married,College graduate,Working full-time,No,1.74,89.1,29.43,34.055,109,71,106,70,106,71,103,9,126,208,67,116
+fefifo_8002_3_57,8002,3,57,Fiber,51.9,Female,White,Single/Never married,College graduate,Working full-time,No,1.74,89.1,29.43,34.055,109,71,106,70,106,71,103,9,126,208,67,116
+fefifo_8002_2_58,8002,2,58,Fiber,51.9,Female,White,Single/Never married,College graduate,Working full-time,No,1.74,89.1,29.43,34.055,109,71,106,70,106,71,103,9,126,208,67,116
+fefifo_8002_1_59,8002,1,59,Fiber,51.9,Female,White,Single/Never married,College graduate,Working full-time,No,1.74,89.1,29.43,34.055,109,71,106,70,106,71,103,9,126,208,67,116
+fefifo_8006_6_6,8006,6,6,Fiber,57.3,Female,White,Married/Partnered,College graduate,Working full-time,No,1.57,59,23.84,31.89,128,80,113,76,112,75,112,7.3,87,211,59,135
+fefifo_8026_2_60,8026,2,60,Fermented,73.4,Female,White,Divorced,College graduate,Retired,No,1.65,68.2,25.05,35.039,155,86,153,82,158,82,100,6.4,51,210,80,120
+fefifo_8026_4_61,8026,4,61,Fermented,73.4,Female,White,Divorced,College graduate,Retired,No,1.65,68.2,25.05,35.039,155,86,153,82,158,82,100,6.4,51,210,80,120
+fefifo_8026_3_62,8026,3,62,Fermented,73.4,Female,White,Divorced,College graduate,Retired,No,1.65,68.2,25.05,35.039,155,86,153,82,158,82,100,6.4,51,210,80,120
+fefifo_8004_1_63,8004,1,63,Fermented,60.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.58,44.2,17.71,27.559,124,75,138,78,148,77,94,6.3,109,208,84,102
+fefifo_8004_2_64,8004,2,64,Fermented,60.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.58,44.2,17.71,27.559,124,75,138,78,148,77,94,6.3,109,208,84,102
+fefifo_8004_4_65,8004,4,65,Fermented,60.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.58,44.2,17.71,27.559,124,75,138,78,148,77,94,6.3,109,208,84,102
+fefifo_8006_3_66,8006,3,66,Fiber,57.3,Female,White,Married/Partnered,College graduate,Working full-time,No,1.57,59,23.84,31.89,128,80,113,76,112,75,112,7.3,87,211,59,135
+fefifo_8006_4_67,8006,4,67,Fiber,57.3,Female,White,Married/Partnered,College graduate,Working full-time,No,1.57,59,23.84,31.89,128,80,113,76,112,75,112,7.3,87,211,59,135
+fefifo_8007_2_68,8007,2,68,Fiber,44.2,Male,White,Single/Never married,Post-graduate degree,Working full-time,No,1.79,64.4,20.1,33.071,115,84,122,85,131,79,97,11.5,194,169,35,95
+fefifo_8004_3_69,8004,3,69,Fermented,60.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.58,44.2,17.71,27.559,124,75,138,78,148,77,94,6.3,109,208,84,102
+fefifo_8006_5_7,8006,5,7,Fiber,57.3,Female,White,Married/Partnered,College graduate,Working full-time,No,1.57,59,23.84,31.89,128,80,113,76,112,75,112,7.3,87,211,59,135
+fefifo_8007_3_70,8007,3,70,Fiber,44.2,Male,White,Single/Never married,Post-graduate degree,Working full-time,No,1.79,64.4,20.1,33.071,115,84,122,85,131,79,97,11.5,194,169,35,95
+fefifo_8007_1_71,8007,1,71,Fiber,44.2,Male,White,Single/Never married,Post-graduate degree,Working full-time,No,1.79,64.4,20.1,33.071,115,84,122,85,131,79,97,11.5,194,169,35,95
+fefifo_8006_1_72,8006,1,72,Fiber,57.3,Female,White,Married/Partnered,College graduate,Working full-time,No,1.57,59,23.84,31.89,128,80,113,76,112,75,112,7.3,87,211,59,135
+fefifo_8007_4_73,8007,4,73,Fiber,44.2,Male,White,Single/Never married,Post-graduate degree,Working full-time,No,1.79,64.4,20.1,33.071,115,84,122,85,131,79,97,11.5,194,169,35,95
+fefifo_8031_3_74,8031,3,74,Fermented,74.5,Female,White,Divorced,Some college,Retired,No,1.64,64,23.8,36.614,124,78,114,76,113,75,99,7.3,152,252,48,174
+fefifo_8013_3_75,8013,3,75,Fiber,47.6,Female,White,Single/Never married,College graduate,Working full-time,No,1.7,85.7,29.65,37.008,116,80,116,70,113,76,93,10.8,129,222,37,159
+fefifo_8008_2_76,8008,2,76,Fermented,45.7,Female,White,Divorced,College graduate,Working full-time,No,1.64,57.3,21.3,NA,102,59,96,62,91,58,87,8.5,58,154,53,89
+fefifo_8006_2_77,8006,2,77,Fiber,57.3,Female,White,Married/Partnered,College graduate,Working full-time,No,1.57,59,23.84,31.89,128,80,113,76,112,75,112,7.3,87,211,59,135
+fefifo_8008_3_78,8008,3,78,Fermented,45.7,Female,White,Divorced,College graduate,Working full-time,No,1.64,57.3,21.3,NA,102,59,96,62,91,58,87,8.5,58,154,53,89
+fefifo_8026_1_79,8026,1,79,Fermented,73.4,Female,White,Divorced,College graduate,Retired,No,1.65,68.2,25.05,35.039,155,86,153,82,158,82,100,6.4,51,210,80,120
+fefifo_8008_4_80,8008,4,80,Fermented,45.7,Female,White,Divorced,College graduate,Working full-time,No,1.64,57.3,21.3,NA,102,59,96,62,91,58,87,8.5,58,154,53,89
+fefifo_8009_2_81,8009,2,81,Fiber,44.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.59,50.6,20.02,29.921,123,74,102,70,109,73,88,7.7,53,170,63,96
+fefifo_8020_1_82,8020,1,82,Fermented,56.2,Male,Asian,Single/Never married,Post-graduate degree,Working part-time,No,1.67,60.6,21.81,31.496,115,75,112,72,116,74,92,6.4,82,197,55,126
+fefifo_8020_2_83,8020,2,83,Fermented,56.2,Male,Asian,Single/Never married,Post-graduate degree,Working part-time,No,1.67,60.6,21.81,31.496,115,75,112,72,116,74,92,6.4,82,197,55,126
+fefifo_8020_4_84,8020,4,84,Fermented,56.2,Male,Asian,Single/Never married,Post-graduate degree,Working part-time,No,1.67,60.6,21.81,31.496,115,75,112,72,116,74,92,6.4,82,197,55,126
+fefifo_8008_1_85,8008,1,85,Fermented,45.7,Female,White,Divorced,College graduate,Working full-time,No,1.64,57.3,21.3,NA,102,59,96,62,91,58,87,8.5,58,154,53,89
+fefifo_8009_3_86,8009,3,86,Fiber,44.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.59,50.6,20.02,29.921,123,74,102,70,109,73,88,7.7,53,170,63,96
+fefifo_8010_1_87,8010,1,87,Fermented,52.5,Female,Asian,Married/Partnered,College graduate,Working full-time,No,1.56,56.2,23.09,30.709,132,82,107,71,119,80,83,5,106,230,75,134
+fefifo_8010_3_88,8010,3,88,Fermented,52.5,Female,Asian,Married/Partnered,College graduate,Working full-time,No,1.56,56.2,23.09,30.709,132,82,107,71,119,80,83,5,106,230,75,134
+fefifo_8010_2_89,8010,2,89,Fermented,52.5,Female,Asian,Married/Partnered,College graduate,Working full-time,No,1.56,56.2,23.09,30.709,132,82,107,71,119,80,83,5,106,230,75,134
+fefifo_8031_4_90,8031,4,90,Fermented,74.5,Female,White,Divorced,Some college,Retired,No,1.64,64,23.8,36.614,124,78,114,76,113,75,99,7.3,152,252,48,174
+fefifo_8013_1_91,8013,1,91,Fiber,47.6,Female,White,Single/Never married,College graduate,Working full-time,No,1.7,85.7,29.65,37.008,116,80,116,70,113,76,93,10.8,129,222,37,159
+fefifo_8009_4_92,8009,4,92,Fiber,44.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.59,50.6,20.02,29.921,123,74,102,70,109,73,88,7.7,53,170,63,96
+fefifo_8009_1_93,8009,1,93,Fiber,44.8,Female,White,Married/Partnered,Some post-graduate school,Working full-time,No,1.59,50.6,20.02,29.921,123,74,102,70,109,73,88,7.7,53,170,63,96
+fefifo_8013_4_94,8013,4,94,Fiber,47.6,Female,White,Single/Never married,College graduate,Working full-time,No,1.7,85.7,29.65,37.008,116,80,116,70,113,76,93,10.8,129,222,37,159
+fefifo_8031_2_95,8031,2,95,Fermented,74.5,Female,White,Divorced,Some college,Retired,No,1.64,64,23.8,36.614,124,78,114,76,113,75,99,7.3,152,252,48,174
+fefifo_8008_5_96,8008,5,96,Fermented,45.7,Female,White,Divorced,College graduate,Working full-time,No,1.64,57.3,21.3,NA,102,59,96,62,91,58,87,8.5,58,154,53,89
+fefifo_8029_1_97,8029,1,97,Fiber,26.1,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.69,74,26,36.142,108,70,110,72,107,69,76,13.5,74,178,68,95
+fefifo_8029_2_98,8029,2,98,Fiber,26.1,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.69,74,26,36.142,108,70,110,72,107,69,76,13.5,74,178,68,95
+fefifo_8024_1_99,8024,1,99,Fermented,49.3,Female,White,Single/Never married,Post-graduate degree,Working full-time,No,1.68,78.5,27.95,38.071,128,83,126,86,127,84,76,10.1,247,245,44,152
