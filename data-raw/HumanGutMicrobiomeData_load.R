@@ -28,6 +28,13 @@ ad <- readRDS("data-raw/ad.RDS") #Normalized by proportions
 ad_counts <- readRDS("data-raw/ad_counts.RDS") #Raw counts
 
 
+#Alcohol overconsumption
+#Characterization of gut microbiota composition and functions in patients with chronic alcohol overconsumption by Bjørkhaug et al. (2019)
+
+alc <- readRDS("data-raw/alc.RDS") #Normalized by proportions
+alc_counts <- readRDS("data-raw/alc_counts.RDS") #Raw counts
+
+
 #Use this ############################
 
 usethis::use_data(fefifo, overwrite = TRUE)
@@ -44,3 +51,7 @@ usethis::use_data(oc_agefirstOCuse_counts, overwrite = TRUE)
 
 usethis::use_data(ad, overwrite = TRUE)
 usethis::use_data(ad_counts, overwrite = TRUE)
+
+
+usethis::use_data(alc, overwrite = TRUE)
+usethis::use_data(alc_counts, overwrite = TRUE)
