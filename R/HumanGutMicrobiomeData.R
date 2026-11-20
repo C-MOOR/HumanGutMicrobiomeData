@@ -26,6 +26,34 @@
 "fefifo_counts"
 
 
+#' Data of Bjorkhaug et al's 2019 study on the effect of alcohol on the gut microbiome
+#'
+#'  Count data for fecal samples representing the gut microbiome of subjects with varying levels of alcohol consumption
+#'
+#' @format A phyloseq object:
+#' \describe{
+#'   \item{otu_table}{Count data of ASVs per each sample. 27645 ASVs are represented across 51 samples}
+#'   \item{sample_data}{Metadata table connecting metadata to each sample. Contains 51 samples by 7 sample variables}
+#'   \item{tax_table}{A table listing the taxonomic assignment of each ASV. Contains 27645 taxa across 6 taxonomic ranks - Species is included as a column but contains no information}
+#' }
+#' @source \url{https://doi.org/10.1080/19490976.2019.1580097}
+"alc_counts"
+
+#' Data of Bjorkhaug et al's 2019 study on the effect of alcohol on the gut microbiome
+#'
+#'  Data for fecal samples representing the gut microbiome of subjects with varying levels of alcohol consumption in proportions
+#'
+#' @format A phyloseq object:
+#' \describe{
+#'   \item{otu_table}{Count data of ASVs per each sample. 27645 ASVs are represented across 51 samples}
+#'   \item{sample_data}{Metadata table connecting metadata to each sample. Contains 51 samples by 7 sample variables}
+#'   \item{tax_table}{A table listing the taxonomic assignment of each ASV. Contains 27645 taxa across 6 taxonomic ranks - Species is included as a column but contains no information}
+#' }
+#' @source \url{https://doi.org/10.1080/19490976.2019.1580097}
+"alc"
+
+
+
 #' Data of Terrazas et al.'s 2025 study on the effect of oral contraceptives on the gut microbiome in normalized proportions
 #'
 #'  Relative abundance data for fecal samples representing the gut microbiome of subjects on various dosages including none of oral contraceptives
